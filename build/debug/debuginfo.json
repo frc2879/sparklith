@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project sparklith)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "sparklith",
+    "language": "java"
+  }
+]
